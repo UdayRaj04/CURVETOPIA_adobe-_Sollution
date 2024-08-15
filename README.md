@@ -1,5 +1,5 @@
 # CURVETOPIA: A Journey into the World of Curves
-Welcome to CURVETOPIA, a groundbreaking project created for the Adobe Hackathon. Our mission is to revolutionize the way we identify, regularize, and beautify curves in 2D Euclidean space. This project aims to transform line art images into a set of beautifully defined curves using cubic Bezier curves.
+Welcome to CURVETOPIA, a groundbreaking project created for the Adobe Hackathon. Our mission is to revolutionize the way we identify, regularize, and beautify curves in 2D Euclidean space. This project aims to transform line art images into a set of beautifully defqined curves using cubic Bezier curves.
 
 ## Objective
 Our goal is to create an end-to-end process where we take a raster PNG image of line art and output a set of curves defined as a connected sequence of cubic Bezier curves.
@@ -34,3 +34,6 @@ In this section, we tackle the problem of completing curves that have been "plan
 
  **Activity:** The task is to explore the notion of curve completion (not object). The completion algorithm may be guided by smoothness, regularity and symmetry
 	3. Disconnected: e.g., a circle interrupted by a long rectangle, resulting in two disconnected portions of the circle.
+
+ 
+Qualifying_for_Round 2!_Uday_Raj_Sharma.jpg

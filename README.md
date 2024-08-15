@@ -36,4 +36,6 @@ In this section, we tackle the problem of completing curves that have been "plan
 	3. Disconnected: e.g., a circle interrupted by a long rectangle, resulting in two disconnected portions of the circle.
 
  
+### Completion Certificate for qualifying for Round2 by # ADOBE GENX:
+ ![image info](Qualifying_for_Round2!_Uday_Raj_Sharma.jpg) 
 Qualifying_for_Round 2!_Uday_Raj_Sharma.jpg
